@@ -1,3 +1,4 @@
-def Addition(a, b):
+def addition(a, b):
     print("Adding...!")
     return a + b
+
