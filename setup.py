@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name=['TestPyPiPackages', 'SecondPackage'],
+    name=['TestPyPiPackages'],
     version='0.0.1',
     description='My private package from private github repo',
     url='https://github.com/michalherjan/TestPyPiPackages.git',
