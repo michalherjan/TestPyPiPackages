@@ -4,7 +4,7 @@ setup(
     name='mh-test-package',
     version='0.0.1',
     description='My private package from private github repo',
-    url='git@github.com:michalherjan/TestPyPiPackages.git',
+    url='https://github.com/michalherjan/TestPyPiPackages.git',
     author='Michal Herjan',
     author_email='miherjan@dtiq.com',
     license='unlicense',
