@@ -32,4 +32,4 @@ setup(
     zip_safe=False
 )
 ```
-The *__init__.py* is where all the logic of our package should be defined.
+The *\__init\__.py* is where all the logic of our package should be defined. :shipit:
