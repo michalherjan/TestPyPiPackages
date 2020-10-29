@@ -12,7 +12,7 @@ To install chosen package we need to run following command:
 ```
 pip install -e git+git://<github_link>/#"egg=<package_name>&subdirectory=<package_name>"
 ```
-For example for installing SecondPackage we would run:
+For example, for installing SecondPackage we would run:
 ```
 pip install -e git+git://github.com/michalherjan/TestPyPiPackages.git/#"egg=SecondPackage&subdirectory=SecondPackage"
 ```
