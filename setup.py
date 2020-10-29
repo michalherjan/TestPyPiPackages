@@ -8,6 +8,6 @@ setup(
     author='Michal Herjan',
     author_email='miherjan@dtiq.com',
     license='unlicense',
-    packages=['TestPyPiPackages'],
+    packages=['TestPyPiPackages', 'SecondPackage'],
     zip_safe=False
 )
