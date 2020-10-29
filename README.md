@@ -16,7 +16,7 @@ For example, for installing SecondPackage we would run:
 ```
 pip install -e git+git://github.com/michalherjan/TestPyPiPackages.git/#"egg=SecondPackage&subdirectory=SecondPackage"
 ```
-To create a repository like this one we simply need to commit a "package" with folder structure like aforementioned example. The file *setup.py* describes our package and looks like that:
+To create a repository like this one we simply need to commit a "package" with folder structure like aforementioned example. The file *setup.py* describes our package and looks as follows:
 ```
 from setuptools import setup
 
